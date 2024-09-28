@@ -1,5 +1,5 @@
 # Developed by @Tamzeeni
-# lydomain-lookup
+# LYdomain-lookup
 
 ---
 
