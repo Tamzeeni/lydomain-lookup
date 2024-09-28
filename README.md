@@ -1,8 +1,6 @@
 # developed by @Tamzeeni
 # lydomain-lookup
 
-Here’s a `README.md` file for your domain availability checker project:
-
 ---
 
 # Domain Availability Checker
