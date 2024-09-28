@@ -1,4 +1,4 @@
-# developed by @Tamzeeni
+# Developed by @Tamzeeni
 # lydomain-lookup
 
 ---
