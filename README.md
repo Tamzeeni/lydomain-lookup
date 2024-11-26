@@ -5,7 +5,7 @@
 
 # Domain Availability Checker
 
-This Python script generates 3-letter `.ly` domain names, checks their availability using the `whois` lookup, and exports the registered domains with their expiration dates into a `.txt` file.
+This Python script generates `.ly` domain names, checks their availability using the `whois` lookup, and exports the registered domains with their expiration dates into a `.txt` file.
 
 ## Features
 
